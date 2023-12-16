@@ -1,4 +1,5 @@
 # 03_03 Run scripts from the pipeline
+[![Build Status](http://localhost:8080/jenkins/buildStatus/icon?job=jenkins-pipeline-steps-path)](http://192.168.0.228/jenkins/job/jenkins-pipeline-steps-path/)
 
 Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
 
